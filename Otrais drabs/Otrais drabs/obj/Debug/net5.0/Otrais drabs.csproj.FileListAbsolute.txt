@@ -1,0 +1,16 @@
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\Otrais drabs.exe
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\Otrais drabs.deps.json
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\Otrais drabs.runtimeconfig.json
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\Otrais drabs.runtimeconfig.dev.json
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\Otrais drabs.dll
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\ref\Otrais drabs.dll
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\bin\Debug\net5.0\Otrais drabs.pdb
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.csproj.AssemblyReference.cache
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.AssemblyInfoInputs.cache
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.AssemblyInfo.cs
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.csproj.CoreCompileInputs.cache
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.dll
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\ref\Otrais drabs.dll
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.pdb
+D:\MS\Repositry\Otrais darbs\Otrais drabs\Otrais drabs\obj\Debug\net5.0\Otrais drabs.genruntimeconfig.cache
